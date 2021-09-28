@@ -33,23 +33,74 @@
       </p>
     </li>
   </ul>
-<h1>AH Tech Focus Area :milky_way: :stars: :cloud: </h1>
+<h1>AH Tech Technology Stack :milky_way: :stars: :cloud: </h1>
   <ul>
     <li>
-      <p>Products/Services
+      <p>Languages
       </p>
+      <img src="https://drive.google.com/uc?export=view&id=1sqIDufIZpdAmdQBoMziXzhf7OUIZuoKM"
+      style="width: 200px; max-width: 100%; height: auto"</img>
+      <img src="https://drive.google.com/uc?export=view&id=140HaTJp89gY7nSh2sn56LtTKQfPF8hl-"
+      style="width: 200px; max-width: 100%; height: auto"</img>
+      <ul>
+        <li>
+          <p>Javascript</p>
+        </li>
+        <li>
+          <p>Python</p>
+        </li>
+        <li>
+          <p>SQL</p>
+        </li>
+      </ul>
     </li>
     <li>
-      <p>Customer/User
+      <p>Frameworks
       </p>
+       <img src="https://drive.google.com/uc?export=view&id=1qiwpP_y31k6PTq1axSm3X14qunJgyZWB"
+      style="width: 200px; max-width: 100%; height: auto"</img>
+      <img src="https://drive.google.com/uc?export=view&id=10JyBFXUwiWVagpwysWiydZcJUQlVb3Fk"
+      style="width: 200px; max-width: 100%; height:150px;"</img>
+      <ul>
+        <li>
+          <p>Beatiful Soup</p>
+        </li>
+        <li>
+          <p>Flask</p>
+        </li>
+        <li>
+          <p>Django</p>
+        </li>
+        <li>
+          <p>Celer</p>
+        </li>
+      </ul>
     </li>
     <li>
-      <p>People & Organization
+      <p>Tools
       </p>
-    </li>
-     <li>
-      <p>Infrastructure/Partners/Other
-      </p>
+      <img src="https://drive.google.com/uc?export=view&id=1337Xvj66LfadDNAIesslOrs72wA9Wp1x"
+      style="width: 100px; max-width: 100%; height: auto"</img>
+      <img src="https://drive.google.com/uc?export=view&id=1o3Vw20lmoKfmgulooGmpSUQLFoJVJIJ_"
+      style="width: 200px; height: 200px; max-width: 100%; height: auto"</img>
+      <img src="https://drive.google.com/uc?export=view&id=1X-vd22nch3mENKpoD-qG0Q0UNqaY8sqx"
+      style="width: 200px; height: 200px; max-width: 100%; height: auto"</img>
+      <img src="https://drive.google.com/uc?export=view&id=17ead6JhVmyUTyb8UQ_nhUEutiEf8mv7P"
+      style="width: 200px; height: 200px; max-width: 100%; height: auto"</img>
+      <ul>
+        <li>
+          <p>Docker</p>
+        </li>
+        <li>
+          <p>Apache Airflow</p>
+        </li>
+        <li>
+          <p>Google Analytics</p>
+        </li>
+        <li>
+          <p>Jenkins</p>
+        </li>
+      </ul>
     </li>
   </ul>
 
