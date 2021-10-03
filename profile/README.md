@@ -38,21 +38,7 @@
     <li>
       <p>Languages
       </p>
-      <img src="https://drive.google.com/uc?export=view&id=1sqIDufIZpdAmdQBoMziXzhf7OUIZuoKM"
-      style="width: 200px; max-width: 100%; height: auto"</img>
-      <img src="https://drive.google.com/uc?export=view&id=140HaTJp89gY7nSh2sn56LtTKQfPF8hl-"
-      style="width: 200px; max-width: 100%; height: auto"</img>
-      <ul>
-        <li>
-          <p>Javascript</p>
-        </li>
-        <li>
-          <p>Python</p>
-        </li>
-        <li>
-          <p>SQL</p>
-        </li>
-      </ul>
+      ![Python](/python.png)
     </li>
     <li>
       <p>Frameworks
