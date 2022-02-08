@@ -1,5 +1,5 @@
 ## Hey, this is us 👋
-![image](https://drive.google.com/uc?export=view&id=15m2L8hG1742YPk6geUZFpuLN32fI8muK)
+![image](https://doc-0c-a8-docs.googleusercontent.com/docs/securesc/k6gv34hrnlmq9e48pig9bj7r2sl3lovt/kkg6o93kar4hua7643756aklim5h9ekj/1644348975000/09944806587165437458/07771906703031304610/15m2L8hG1742YPk6geUZFpuLN32fI8muK?e=view&authuser=0&nonce=5enme8ipnm5cs&user=07771906703031304610&hash=urpeu0tmcp5n7o5ff36f5o2gqc7v3p7a)
 
 ## Follow us on [medium](https://medium.com/analyticahousetech) :writing_hand:	
 
